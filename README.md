@@ -10,4 +10,4 @@ The business model for M2M is a recurring fee for use of the network. The costs 
 
 In Iot the UNB networks (i.e. Weightless, LoRa, sigfox, and others) have gained a lot of traction. They are _the solution_ in situations where the cost compared to M2M are significantly lower, however limited in data throughput.
 
-<more to follow...>    
+$ more to follow...   
